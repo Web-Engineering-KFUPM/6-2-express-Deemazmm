@@ -21,7 +21,7 @@ LAB SETUP INSTRUCTIONS
 3. Start the front server server from 6-2-node-express-Dromarjh-main\6-2-node-express path:
    Run:
       npm run dev
-
+a
 4. Start the back-end server from a separate terminal, path: 6-2-node-express-Dromarjh-main\6-2-node-express\backend:
    Run:
       node server.js
